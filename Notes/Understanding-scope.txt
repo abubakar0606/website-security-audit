@@ -1,0 +1,25 @@
+ Understanding & Scope 
+
+From a SOC perspective, a Web Security Audit is the process of
+reviewing a website to identify weaknesses that could be exploited
+by attackers. The main goal is to protect user data, system integrity,
+and business operations.
+
+Penetration testing is used by SOC teams to simulate attacker behavior
+in a controlled way in order to evaluate security controls and improve
+defense mechanisms.
+
+A vulnerability is any weakness in a web application that can be
+exploited to compromise confidentiality, integrity, or availability.
+SOC teams classify vulnerabilities based on risk and prioritize fixing
+critical issues such as SQL Injection and XSS.
+
+The main focus areas of the audit include:
+- Login pages, because they control system access
+- Signup forms, which can be abused for attacks
+- User profile sections, where personal data is stored
+- APIs, which handle backend communication and data exchange
+
+The output of this phase is a clearly defined audit scope that
+identifies which parts of the website will be tested and ensures
+that testing is performed legally and safely.
